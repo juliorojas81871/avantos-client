@@ -18,3 +18,17 @@ A UI for configuring how form fields can be prefilled using data from other form
 cd client
 npm install
 npm run dev
+```
+
+## Test
+
+```bash
+npm test
+```
+
+
+## Live Example:
+https://drive.google.com/file/d/1g-vyet7WTbu4ZmW94T1deZXfyRIs0yNp/view
+
+## 30-Minute Live Coding:
+https://drive.google.com/file/d/16qFCOd4_JtPLEv_lEzpnxskzp73VSsKR/view?usp=sharing
